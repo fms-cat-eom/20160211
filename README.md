@@ -10,7 +10,7 @@ Processing
 
 今回も技術っぽい感じ。  
 私が尊敬する[Keijiro TakahashiさんがUnityで実装されていた](http://radiumsoftware.tumblr.com/post/137001869724)「Critically Damped Spring Smoothing」というもので遊んでみました。  
-説明について、自分は数学・物理にわかのため、間違っていたりいろいろするかもしれませんが、ご了承ください。。。  
+説明について、自分は数学・物理にわかのため、間違っていたりするかもしれませんが、ご了承ください。。。  
 
 ### Smoothing
 
