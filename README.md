@@ -1,8 +1,10 @@
-# Everyday One Motion - 20160211 "Critically Damped Spring Smoothing"
+# Everyday One Motion - 20160211  
 
-![](20160211.gif)
+"Critically Damped Spring Smoothing"  
 
-Processing
+![](20160211.gif)  
+
+Processing  
 
 [Everyday One Motion](http://motions.work/motion/98)  
 
